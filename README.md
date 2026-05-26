@@ -4,7 +4,7 @@
 
 Businesses generate large amounts of sales data every day, but raw data alone cannot help in decision-making unless it is properly analyzed and visualized. This project focuses on analyzing Superstore sales data to identify important business trends, profitable categories, high-performing products, and overall sales growth. Using Excel and Power BI, the raw sales dataset was cleaned, transformed, and converted into an interactive dashboard that provides meaningful business insights and supports data-driven decision-making.
 
-## Dataset Information
+Dataset Information
 
 | Field | Details |
 |---|---|
