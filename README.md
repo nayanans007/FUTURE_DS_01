@@ -1,11 +1,10 @@
 SUPERSTORE SALES PERFORMANCE REPORT
 
-Context
+CONTEXT
 
 Businesses generate large amounts of sales data every day, but raw data alone cannot help in decision-making unless it is properly analyzed and visualized. This project focuses on analyzing Superstore sales data to identify important business trends, profitable categories, high-performing products, and overall sales growth. Using Excel and Power BI, the raw sales dataset was cleaned, transformed, and converted into an interactive dashboard that provides meaningful business insights and supports data-driven decision-making.
 
-
-Dataset Information
+DATASET INFORMATION
 
 | Field | Details |
 |---|---|
@@ -14,8 +13,7 @@ Dataset Information
 | Records Analyzed | ~9,994 orders |
 | Time Period | 2014-2017 |
 
-
-Objective
+OBJECTIVE
 
 The objective of this project was to analyze business sales data and create an interactive sales analytics dashboard to identify:
 
@@ -28,14 +26,12 @@ The objective of this project was to analyze business sales data and create an i
 
 The dashboard was designed to help businesses understand their performance clearly and make informed strategic decisions.
 
-
-Tools Used
+TOOLS USED
 
 - Microsoft Excel
 - Power BI
 
-
-Project Workflow
+PROJECT WORKFLOW
 
 - Imported the raw sales dataset into Microsoft Excel and created a separate cleaned dataset for analysis
 - Cleaned and organized the data by formatting values, handling inconsistencies, and extracting Year and Month from order dates
@@ -44,8 +40,7 @@ Project Workflow
 - Formatted and optimized the dashboard layout by improving readability, alignment, labels, and overall presentation
 - Generated business insights and recommendations based on sales performance, profitability, and product analysis
 
-
-Key Performance Indicators (KPIs)
+KEY PERFORMANCE INDICATORS (KPIs)
 
 | KPI | Value |
 |---|---|
@@ -54,8 +49,7 @@ Key Performance Indicators (KPIs)
 | Total Profit | $286.40K |
 | Total Orders | 9.994K |
 
-
-Key Insights
+KEY INSIGHTS
 
 - The business showed strong growth between 2014 and 2017. Total sales increased from approximately $484K in 2014 to around $733K in 2017, representing an overall growth of more than 50% over four years.
 
@@ -81,8 +75,7 @@ Key Insights
 
 - The **HON 5400 Series Task Chairs for Big and Tall** generated approximately $21.87K in sales but almost zero profit. This indicates that certain products may be reducing overall profitability due to poor pricing or high associated costs.
 
-
-Recommendations
+RECOMMENDATIONS
 
 1. Increase Investment in Technology Products
 
@@ -123,8 +116,7 @@ The dashboard slicers can help businesses identify:
 
 This can improve marketing strategies, inventory planning, and sales forecasting.
 
-
-Interpretation
+INTERPRETATION
 
 The dashboard analysis clearly shows that the business experienced strong long-term growth and increasing customer demand between 2014 and 2017. The steady rise in sales after 2015 indicates successful business recovery and expansion. The company generated approximately $2.30 million in total sales and nearly $286K in profit, reflecting strong overall business performance.
 
@@ -134,8 +126,7 @@ On the other hand, the Furniture category revealed a major profitability concern
 
 The dashboard also demonstrates the importance of product-level analysis. Certain products generated very high sales and profits with only a few orders, while some products generated revenue without contributing meaningful profit. These findings can help businesses make smarter decisions regarding product strategy, pricing, and future investments.
 
-
-Conclusion
+CONCLUSION
 
 This project successfully transformed raw sales data into a professional and interactive business analytics dashboard using Excel and Power BI. The analysis provided valuable insights into sales trends, category performance, profitability, and product-level performance.
 
